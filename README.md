@@ -1,4 +1,4 @@
-                          # Hi 👋, I'm Wiem Abbassi
+# Hi 👋, I'm Wiem Abbassi
 
 a passionate computer science student with a strong interest in Data, AI and software engineering.
 
